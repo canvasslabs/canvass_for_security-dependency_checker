@@ -1,0 +1,14 @@
+{
+  "name": "vuln_search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaewoo Park",
+  "license": "ISC",
+  "dependencies": {
+    "@yarnpkg/lockfile": "^1.1.0"
+  }
+}
